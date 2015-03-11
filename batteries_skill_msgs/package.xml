@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
     <name>batteries_skill_msgs</name>
-    <version>1.0.0</version>
+    <version>0.0.1</version>
     <description>
         batteries_skill messages and services
     </description>
