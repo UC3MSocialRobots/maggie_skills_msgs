@@ -11,4 +11,4 @@ batteries_skill_msgs package was designed and developed by the Social Robots Gro
 
 ### Thanks
 
-[See all Github contributors](https://github.com/UC3MSocialRobots/maggie_devices/contributors)
+[See all Github contributors](https://github.com/UC3MSocialRobots/maggie_skills_msgs/contributors)
