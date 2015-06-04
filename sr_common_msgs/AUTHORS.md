@@ -1,0 +1,13 @@
+# Authors and Contributors
+
+sr_common_msgs package was designed and developed by the Social Robots Group at Robotics Lab, UC3M (Spain).
+
+### Current Team
+
+* [Raúl Pérula-Martínez](https://github.com/raulperula) (developer, maintainer)
+* [Miguel A. Salichs](http://roboticslab.uc3m.es/roboticslab/people/miguel-salichs) (director)
+
+
+### Thanks
+
+[See all Github contributors](https://github.com/UC3MSocialRobots/sr_common_msgs/contributors)
